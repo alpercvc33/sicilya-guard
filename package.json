@@ -1,0 +1,16 @@
+{
+  "name": "sicilya-guard",
+  "version": "1.0.0",
+  "description": "Sicilya Discord sunucusu için ultra güvenli guard bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "@discordjs/voice": "^0.18.0"
+  }
+}
